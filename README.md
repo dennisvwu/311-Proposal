@@ -4,6 +4,6 @@ CPSC 311 - Technical Writing for Computer Science
 Solicited Proposal for Family Health Clinic
 
 Description: 
-Group project involving technical research, proposal conference (presentation), and a solicited proposal paper.
+Developed a professional proposal in a form of a short report. Conducted technical researching associated with the cost, design, development, and testing of the proposed application. 
 
 Role: Leader/Final-Editor
